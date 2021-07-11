@@ -1,0 +1,6 @@
+Email,Content,Name
+test@mail.com,test content 1 {firstName} {lastName},test newsletter name1
+test0@mail.com,test content 0 {firstName} {lastName},test newsletter name0
+test1@mail.com,test content 2 {firstName} {lastName},test newsletter name2
+test2@mail.com,test content 3 {firstName} {lastName},test newsletter name3
+test3@mail.com,test content 4 {firstName} {lastName},test newsletter name4
